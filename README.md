@@ -1,11 +1,10 @@
-````md
-# 🛒 E-Commerce Gen-AI
+#  E-Commerce Gen-AI
 
 An **AI-powered e-commerce platform** that uses **Generative AI** to enhance product discovery, recommendations, and user experience using **OpenAI**, **Qdrant**, and **React**.
 
 ---
 
-## 🚀 Features
+##  Features
 - AI-based product recommendations
 - Semantic product search
 - Smart chatbot for shopping assistance
@@ -14,7 +13,7 @@ An **AI-powered e-commerce platform** that uses **Generative AI** to enhance pro
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Frontend:** React
 - **Backend:** Node.js (Express)
 - **AI:** OpenAI API
@@ -22,7 +21,7 @@ An **AI-powered e-commerce platform** that uses **Generative AI** to enhance pro
 
 ---
 
-## ⚙️ Setup
+##  Setup
 
 ### Backend
 ```bash
